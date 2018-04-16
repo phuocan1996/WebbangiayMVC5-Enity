@@ -1,0 +1,14 @@
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\Model.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\Model.pdb
+E:\WebsiteBanGiay\WebBanGiay\Model\obj\Debug\Model.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\obj\Debug\Model.pdb
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\Model.dll.config
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\EntityFramework.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\PagedList.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\EntityFramework.xml
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\PagedList.xml
+E:\WebsiteBanGiay\WebBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\WebsiteBanGiay\WebBanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
